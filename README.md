@@ -1,5 +1,9 @@
 # locus
-**Introduction to using the api**  
+**Introduction to using the api** 
+
+Locus is an awesome api to fetch all states, cities and region in Nigerian!! 
+I was in of it, when i made it. So feel free to use it for your own need. 
+
 API endpoint `https://locus.fkkas.com/api/` 
 
 Send a `GET` request to get all states in Nigeria
