@@ -1,4 +1,4 @@
-# locus
+# Nigeria State and Region API
 **Introduction to using the api** 
 
 Locus is an awesome api to fetch all states, cities and region in Nigerian!! 
