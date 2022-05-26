@@ -15,12 +15,12 @@ Send a `GET` request to get all states in Nigeria
     data: [
       {
       id: 6, 
-      name: "Abia State", 
+      name: "Abia", 
       alias: "abia"
       }, 
       {
       "id":1,
-      "name":"Abuja (FCT) State",
+      "name":"Abuja (FCT)",
       "alias":"abuja"
       }
      ]
@@ -58,12 +58,12 @@ Send a `GET` request to get all in nigeria `curl https://locus.fkkas.com/api/all
     data: [
       {
       id: 6, 
-      name: "Abia State", 
+      name: "Abia", 
       alias: "abia"
       }, 
       {
       "id":1,
-      "name":"Abuja (FCT) State",
+      "name":"Abuja (FCT)",
       "alias":"abuja"
       }
      ]
